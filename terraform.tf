@@ -1,7 +1,7 @@
 terraform {
 
   cloud {
-    organization = "krateoplatformops"
+    organization = "matteogastaldello"
     hostname = "app.terraform.io"
     workspaces {
       name = "learn-terraform-cloud"
